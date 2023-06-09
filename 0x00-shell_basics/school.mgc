@@ -1,2 +1,2 @@
 #!/bin/bash
-0 string SCHOOL 
+echo -e '0 string SCHOOL\n' > school.magic && file -C -m school.magic school.mgc
